@@ -1,10 +1,10 @@
 ## 👋<🎹> Hello World <🎹/>
 
-- 👀 I'm interested in: Front-end Development (React, TypeScript), SharePoint SPFx Development, Microsoft Power Platform (Power Apps, Automate), and Artificial Intelligence applied to Digital Forensics and Cybersecurity.
+- 👀 I'm interested in: Building intelligent user interfaces that integrate AI-powered tools and components, as well as building enterprise solutions with SharePoint SPFx and Google Apps Script.
 
-- 🌱 I’m currently learning: Machine Learning models for malware detection, advanced SPFx component development, and Power BI for forensic data analysis.
+- 🌱 I’m currently learning: To integrate AI APIs and models into web applications and to architect scalable solutions within the Microsoft 365 and Google Workspace ecosystem.
 
-- 💞️ I’m looking to collaborate on: Innovative Front-end projects, productivity solutions with SPFx & Power Platform, and open-source tools for Cybersecurity and Forensics.
+- 💞️ I’m looking to collaborate on: SPFx components or Apps Script projects that leverage AI to automate workflows and enhance productivity.
 
 - 🏝 Outside of coding: I enjoy reading, playing the piano, and exploring new places.
 
