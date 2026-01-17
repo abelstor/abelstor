@@ -1,4 +1,4 @@
-## 👋<🎹> Hello World <🎹/>
+## 👋<🎹> Hello World </🎹>
 
 - 👀 I'm interested in: Building intelligent user interfaces that integrate AI-powered tools and components, as well as building enterprise solutions with SharePoint SPFx and Google Apps Script.
 
