@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-  <em>"You can’t do it unless you imagine it."</em>
+  <em>"Dreams are extremely important. You can’t do it unless you imagine it."</em>
   <br>
   <strong>— George Lucas</strong>
 </p>
